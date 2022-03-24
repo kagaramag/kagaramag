@@ -2,5 +2,4 @@
 
 #### UIX/Full Stack Software Engineer
 
-An enthusiastic software engineer with 10+ years of experiences in product design participating in the complete project development lifecycle focusing on UI/UX, business/system analysis, scalability, testing, CI&CD, project plan and quality assurance.
-My career revolves around enterprise-level software solutions working with global tech companies and local SMEs. I always strive to define customer journeys on the platform to optimise user experience as I believe that people ignore the app that ignores them.
+I have 10+ years' background in creating and executing innovative software solutions to enhance business productivity. My career revolved around all aspects of the software development lifecycle, from concept through to development and delivery. I have worked with enterprise-level software solutions working with global tech companies and local SMEs. I lead the design of engaging & intuitive digital products and crafting amazing User Experiences.
